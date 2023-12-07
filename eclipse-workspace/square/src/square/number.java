@@ -1,13 +1,11 @@
 package square;
 
 import java.io.IOException;
-import java.util.Scanner;
-import java.util.logging.*;
 
 public class number {
 
 	public static void main(String[] args) throws SecurityException, IOException {
-			 int num = 70;
+			 int num = 65;
 			 int result = squared(num);
 			 System.out.println(result);
 			 boolean isDivisible = false;
