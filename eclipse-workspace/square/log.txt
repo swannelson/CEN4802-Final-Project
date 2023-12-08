@@ -1,0 +1,818 @@
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 1 is 1
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 2 is 4
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 3 is 9
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 4 is 16
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 5 is 25
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 6 is 36
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 7 is 49
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 8 is 64
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 9 is 81
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 10 is 100
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 11 is 121
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 12 is 144
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 13 is 169
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 14 is 196
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 15 is 225
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 16 is 256
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 17 is 289
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 18 is 324
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 19 is 361
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 20 is 400
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 21 is 441
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 22 is 484
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 23 is 529
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 24 is 576
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 25 is 625
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 26 is 676
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 27 is 729
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 28 is 784
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 29 is 841
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 30 is 900
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 31 is 961
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 32 is 1024
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 33 is 1089
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 34 is 1156
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 35 is 1225
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 36 is 1296
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 37 is 1369
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 38 is 1444
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 39 is 1521
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 40 is 1600
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 41 is 1681
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 42 is 1764
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 43 is 1849
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 44 is 1936
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 45 is 2025
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 46 is 2116
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 47 is 2209
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 48 is 2304
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 49 is 2401
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 50 is 2500
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 51 is 2601
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 52 is 2704
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 53 is 2809
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 54 is 2916
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 55 is 3025
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 56 is 3136
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 57 is 3249
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 58 is 3364
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 59 is 3481
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 60 is 3600
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 61 is 3721
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 62 is 3844
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 63 is 3969
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 64 is 4096
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 65 is 4225
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 66 is 4356
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 67 is 4489
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 68 is 4624
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 69 is 4761
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 70 is 4900
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 71 is 5041
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 72 is 5184
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 73 is 5329
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 74 is 5476
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 75 is 5625
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 76 is 5776
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 77 is 5929
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 78 is 6084
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 79 is 6241
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 80 is 6400
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 81 is 6561
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 82 is 6724
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 83 is 6889
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 84 is 7056
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 85 is 7225
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 86 is 7396
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 87 is 7569
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 88 is 7744
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 89 is 7921
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 90 is 8100
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 91 is 8281
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 92 is 8464
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 93 is 8649
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 94 is 8836
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 95 is 9025
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 96 is 9216
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 97 is 9409
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 98 is 9604
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 99 is 9801
+Oct 22, 2023 7:57:15 PM square.number main
+INFO: Square of 100 is 10000
+Oct 22, 2023 10:26:16 PM square.number main
+INFO: Square of 1 is 1
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 2 is 4
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 3 is 9
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 4 is 16
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 5 is 25
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 6 is 36
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 7 is 49
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 8 is 64
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 9 is 81
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 10 is 100
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 11 is 121
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 12 is 144
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 13 is 169
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 14 is 196
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 15 is 225
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 16 is 256
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 17 is 289
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 18 is 324
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 19 is 361
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 20 is 400
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 21 is 441
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 22 is 484
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 23 is 529
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 24 is 576
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 25 is 625
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 26 is 676
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 27 is 729
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 28 is 784
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 29 is 841
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 30 is 900
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 31 is 961
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 32 is 1024
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 33 is 1089
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 34 is 1156
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 35 is 1225
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 36 is 1296
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 37 is 1369
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 38 is 1444
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 39 is 1521
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 40 is 1600
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 41 is 1681
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 42 is 1764
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 43 is 1849
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 44 is 1936
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 45 is 2025
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 46 is 2116
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 47 is 2209
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 48 is 2304
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 49 is 2401
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 50 is 2500
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 51 is 2601
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 52 is 2704
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 53 is 2809
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 54 is 2916
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 55 is 3025
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 56 is 3136
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 57 is 3249
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 58 is 3364
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 59 is 3481
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 60 is 3600
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 61 is 3721
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 62 is 3844
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 63 is 3969
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 64 is 4096
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 65 is 4225
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 66 is 4356
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 67 is 4489
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 68 is 4624
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 69 is 4761
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 70 is 4900
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 71 is 5041
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 72 is 5184
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 73 is 5329
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 74 is 5476
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 75 is 5625
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 76 is 5776
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 77 is 5929
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 78 is 6084
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 79 is 6241
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 80 is 6400
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 81 is 6561
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 82 is 6724
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 83 is 6889
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 84 is 7056
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 85 is 7225
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 86 is 7396
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 87 is 7569
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 88 is 7744
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 89 is 7921
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 90 is 8100
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 91 is 8281
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 92 is 8464
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 93 is 8649
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 94 is 8836
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 95 is 9025
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 96 is 9216
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 97 is 9409
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 98 is 9604
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 99 is 9801
+Oct 22, 2023 10:26:17 PM square.number main
+INFO: Square of 100 is 10000
+Oct 22, 2023 10:26:17 PM square.number main
+WARNING: This is a warning
+Oct 22, 2023 10:26:17 PM square.number main
+SEVERE: this is a severe message
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 1 is 1
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 2 is 4
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 3 is 9
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 4 is 16
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 5 is 25
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 6 is 36
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 7 is 49
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 8 is 64
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 9 is 81
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 10 is 100
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 11 is 121
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 12 is 144
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 13 is 169
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 14 is 196
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 15 is 225
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 16 is 256
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 17 is 289
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 18 is 324
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 19 is 361
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 20 is 400
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 21 is 441
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 22 is 484
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 23 is 529
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 24 is 576
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 25 is 625
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 26 is 676
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 27 is 729
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 28 is 784
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 29 is 841
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 30 is 900
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 31 is 961
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 32 is 1024
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 33 is 1089
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 34 is 1156
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 35 is 1225
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 36 is 1296
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 37 is 1369
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 38 is 1444
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 39 is 1521
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 40 is 1600
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 41 is 1681
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 42 is 1764
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 43 is 1849
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 44 is 1936
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 45 is 2025
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 46 is 2116
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 47 is 2209
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 48 is 2304
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 49 is 2401
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 50 is 2500
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 51 is 2601
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 52 is 2704
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 53 is 2809
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 54 is 2916
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 55 is 3025
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 56 is 3136
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 57 is 3249
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 58 is 3364
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 59 is 3481
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 60 is 3600
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 61 is 3721
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 62 is 3844
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 63 is 3969
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 64 is 4096
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 65 is 4225
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 66 is 4356
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 67 is 4489
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 68 is 4624
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 69 is 4761
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 70 is 4900
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 71 is 5041
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 72 is 5184
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 73 is 5329
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 74 is 5476
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 75 is 5625
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 76 is 5776
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 77 is 5929
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 78 is 6084
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 79 is 6241
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 80 is 6400
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 81 is 6561
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 82 is 6724
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 83 is 6889
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 84 is 7056
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 85 is 7225
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 86 is 7396
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 87 is 7569
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 88 is 7744
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 89 is 7921
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 90 is 8100
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 91 is 8281
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 92 is 8464
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 93 is 8649
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 94 is 8836
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 95 is 9025
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 96 is 9216
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 97 is 9409
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 98 is 9604
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 99 is 9801
+Nov 05, 2023 1:37:50 PM square.number main
+INFO: Square of 100 is 10000
+Nov 05, 2023 1:37:50 PM square.number main
+WARNING: This is a warning
+Nov 05, 2023 1:37:50 PM square.number main
+SEVERE: this is a severe message
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 1 is 1
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 2 is 4
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 3 is 9
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 4 is 16
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 5 is 25
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 6 is 36
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 7 is 49
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 8 is 64
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 9 is 81
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 10 is 100
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 11 is 121
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 12 is 144
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 13 is 169
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 14 is 196
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 15 is 225
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 16 is 256
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 17 is 289
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 18 is 324
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 19 is 361
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 20 is 400
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 21 is 441
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 22 is 484
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 23 is 529
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 24 is 576
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 25 is 625
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 26 is 676
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 27 is 729
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 28 is 784
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 29 is 841
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 30 is 900
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 31 is 961
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 32 is 1024
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 33 is 1089
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 34 is 1156
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 35 is 1225
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 36 is 1296
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 37 is 1369
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 38 is 1444
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 39 is 1521
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 40 is 1600
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 41 is 1681
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 42 is 1764
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 43 is 1849
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 44 is 1936
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 45 is 2025
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 46 is 2116
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 47 is 2209
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 48 is 2304
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 49 is 2401
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 50 is 2500
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 51 is 2601
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 52 is 2704
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 53 is 2809
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 54 is 2916
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 55 is 3025
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 56 is 3136
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 57 is 3249
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 58 is 3364
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 59 is 3481
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 60 is 3600
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 61 is 3721
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 62 is 3844
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 63 is 3969
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 64 is 4096
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 65 is 4225
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 66 is 4356
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 67 is 4489
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 68 is 4624
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 69 is 4761
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 70 is 4900
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 71 is 5041
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 72 is 5184
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 73 is 5329
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 74 is 5476
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 75 is 5625
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 76 is 5776
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 77 is 5929
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 78 is 6084
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 79 is 6241
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 80 is 6400
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 81 is 6561
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 82 is 6724
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 83 is 6889
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 84 is 7056
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 85 is 7225
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 86 is 7396
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 87 is 7569
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 88 is 7744
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 89 is 7921
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 90 is 8100
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 91 is 8281
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 92 is 8464
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 93 is 8649
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 94 is 8836
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 95 is 9025
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 96 is 9216
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 97 is 9409
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 98 is 9604
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 99 is 9801
+Nov 05, 2023 2:01:45 PM square.number main
+INFO: Square of 100 is 10000
+Nov 05, 2023 2:01:45 PM square.number main
+WARNING: This is a warning
+Nov 05, 2023 2:01:45 PM square.number main
+SEVERE: this is a severe message
+Dec 07, 2023 7:08:30 PM square.number main
+INFO: Square of 65 is 4225
+Dec 07, 2023 7:08:30 PM square.number main
+WARNING: This is a warning
+Dec 07, 2023 7:08:30 PM square.number main
+SEVERE: this is a severe message
